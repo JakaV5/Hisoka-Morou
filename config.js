@@ -28,7 +28,7 @@ global.sp = '⭔'
 global.mess = {
     success: '✓ *Success Ngab*',
     admin: '*Dih,Lu Admin??',
-    botAdmin: '*Gw Bukan admin:( mana bisa njir *',
+    botAdmin: '*Gw Bukan admin:( mana bisa njir*',
     owner: '*Lu siapa? Cuma ayang Anggara yang bisa:v*',
     group: '*Fitur Digunakan Hanya Untuk Group!*',
     private: '*Fitur Digunakan Hanya Untuk Private Chat!*',
